@@ -1,0 +1,6 @@
+C:\Users\PREDATOR\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+C:\Users\PREDATOR\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+C:\Users\PREDATOR\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+C:\Users\PREDATOR\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+C:\Users\PREDATOR\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.pdb
+C:\Users\PREDATOR\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.csprojResolveAssemblyReference.cache

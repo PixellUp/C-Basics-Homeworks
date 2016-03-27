@@ -1,0 +1,3 @@
+C:\Users\PREDATOR\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Reformat Code\bin\Debug\Reformat Code.exe.config
+C:\Users\PREDATOR\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Reformat Code\obj\Debug\Reformat Code.exe
+C:\Users\PREDATOR\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Reformat Code\obj\Debug\Reformat Code.pdb

@@ -1,0 +1,6 @@
+c:\users\predator\documents\visual studio 2015\Projects\Intro-Programming-Homework\C Sharp and .NET Differences\bin\Debug\C_Sharp_and.NET_Differences.exe.config
+c:\users\predator\documents\visual studio 2015\Projects\Intro-Programming-Homework\C Sharp and .NET Differences\bin\Debug\C_Sharp_and.NET_Differences.exe
+c:\users\predator\documents\visual studio 2015\Projects\Intro-Programming-Homework\C Sharp and .NET Differences\bin\Debug\C_Sharp_and.NET_Differences.pdb
+c:\users\predator\documents\visual studio 2015\Projects\Intro-Programming-Homework\C Sharp and .NET Differences\obj\Debug\C Sharp and .NET Differences.csprojResolveAssemblyReference.cache
+c:\users\predator\documents\visual studio 2015\Projects\Intro-Programming-Homework\C Sharp and .NET Differences\obj\Debug\C_Sharp_and.NET_Differences.exe
+c:\users\predator\documents\visual studio 2015\Projects\Intro-Programming-Homework\C Sharp and .NET Differences\obj\Debug\C_Sharp_and.NET_Differences.pdb

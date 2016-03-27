@@ -1,0 +1,5 @@
+c:\users\predator\documents\visual studio 2015\Projects\Intro-Programming-Homework\Reformat Code\bin\Debug\Reformat Code.exe.config
+c:\users\predator\documents\visual studio 2015\Projects\Intro-Programming-Homework\Reformat Code\bin\Debug\Reformat Code.exe
+c:\users\predator\documents\visual studio 2015\Projects\Intro-Programming-Homework\Reformat Code\bin\Debug\Reformat Code.pdb
+c:\users\predator\documents\visual studio 2015\Projects\Intro-Programming-Homework\Reformat Code\obj\Debug\Reformat Code.exe
+c:\users\predator\documents\visual studio 2015\Projects\Intro-Programming-Homework\Reformat Code\obj\Debug\Reformat Code.pdb

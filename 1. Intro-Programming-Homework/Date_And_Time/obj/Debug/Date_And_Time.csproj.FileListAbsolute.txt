@@ -1,0 +1,6 @@
+c:\users\predator\documents\visual studio 2015\Projects\Intro-Programming-Homework\Date_And_Time\bin\Debug\Date_And_Time.exe.config
+C:\Users\PREDATOR\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Date_And_Time\obj\Debug\Date_And_Time.csprojResolveAssemblyReference.cache
+C:\Users\PREDATOR\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Date_And_Time\bin\Debug\Date_And_Time.exe
+C:\Users\PREDATOR\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Date_And_Time\bin\Debug\Date_And_Time.pdb
+C:\Users\PREDATOR\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Date_And_Time\obj\Debug\Date_And_Time.exe
+C:\Users\PREDATOR\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\Date_And_Time\obj\Debug\Date_And_Time.pdb

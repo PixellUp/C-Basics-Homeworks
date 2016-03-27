@@ -1,0 +1,3 @@
+C:\Users\PREDATOR\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\C Sharp and .NET Differences\bin\Debug\C_Sharp_and.NET_Differences.exe.config
+C:\Users\PREDATOR\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\C Sharp and .NET Differences\obj\Debug\C_Sharp_and.NET_Differences.exe
+C:\Users\PREDATOR\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\C Sharp and .NET Differences\obj\Debug\C_Sharp_and.NET_Differences.pdb

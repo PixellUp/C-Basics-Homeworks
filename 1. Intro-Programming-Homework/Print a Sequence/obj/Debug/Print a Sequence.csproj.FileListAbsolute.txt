@@ -1,0 +1,6 @@
+c:\users\predator\documents\visual studio 2015\Projects\Intro-Programming-Homework\Print a Sequence\bin\Debug\Print a Sequence.exe.config
+c:\users\predator\documents\visual studio 2015\Projects\Intro-Programming-Homework\Print a Sequence\bin\Debug\Print a Sequence.exe
+c:\users\predator\documents\visual studio 2015\Projects\Intro-Programming-Homework\Print a Sequence\bin\Debug\Print a Sequence.pdb
+c:\users\predator\documents\visual studio 2015\Projects\Intro-Programming-Homework\Print a Sequence\obj\Debug\Print a Sequence.exe
+c:\users\predator\documents\visual studio 2015\Projects\Intro-Programming-Homework\Print a Sequence\obj\Debug\Print a Sequence.pdb
+c:\users\predator\documents\visual studio 2015\Projects\Intro-Programming-Homework\Print a Sequence\obj\Debug\Print a Sequence.csprojResolveAssemblyReference.cache
